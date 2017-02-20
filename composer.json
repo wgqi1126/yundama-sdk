@@ -1,0 +1,19 @@
+{
+    "name": "wgqi1126/yundama-sdk",
+    "description": "yundama sdk for php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guangqi Wang",
+            "email": "hi@guangqi.wang"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "wgqi1126\\": "src/"
+        }
+    },
+    "require": {}
+}
