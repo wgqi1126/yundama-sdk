@@ -9,7 +9,7 @@
             "email": "hi@guangqi.wang"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "wgqi1126\\": "src/"
